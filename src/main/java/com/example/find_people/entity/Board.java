@@ -35,6 +35,4 @@ public class Board {
     @NotNull
     private int number; // 모집인원
 
-    @NotNull
-    private String chatLink; // 채팅방 링크
 }
